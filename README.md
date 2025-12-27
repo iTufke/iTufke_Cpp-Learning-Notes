@@ -6,7 +6,7 @@
 
 ✨ 努力+坚持 还有 Passion!!!
 
-对了，完成C++的学习，珂珂就可以在自己的Github主页上添加新的技术栈 "C++" :
+🥰 对了，完成C++的学习，珂珂就可以在自己的Github主页上添加新的技术栈 "C++" :
 
 <p align="center">
   <a href="https://skillicons.dev">
