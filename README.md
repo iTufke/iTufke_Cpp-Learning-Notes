@@ -13,3 +13,5 @@
     <img src="https://skillicons.dev/icons?i=cpp" />
   </a>
 </p>
+
+☺️ 所以，珂珂要加油，尝试规律睡觉，如果ADHD犯了就使用盐酸可乐定吧 ~ 毕竟专注达是买不起的呢 🫠
